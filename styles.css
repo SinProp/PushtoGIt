@@ -1,0 +1,47 @@
+#main-container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+#header {
+    width: 900px;
+    text-align: center;
+    background-color: darkgoldenrod;
+    color: black;
+
+}
+
+#playerCredentials {
+    width: 900px;
+    /* display: flex; */
+    background-color: cadetblue;
+    justify-content: space-between;
+    margin-bottom: -16px;
+
+}
+
+.Player {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+
+}
+
+.player-img {
+    width: 200px;
+    height: 280px;
+    margin: 0 auto;
+    
+}
+
+#yourGoat {
+    text-align: center;
+    background-color: darkgoldenrod;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+
+
+
